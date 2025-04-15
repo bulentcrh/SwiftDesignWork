@@ -1,0 +1,15 @@
+
+/* Class = "UILabel"; text = "make the world green again"; ObjectID = "KOy-ET-PFA"; */
+"KOy-ET-PFA.text" = "Dünya Yeşil Olduğunda Güzel";
+
+/* Class = "UIButton"; configuration.title = "Sign in"; ObjectID = "XWd-hR-SQF"; */
+"XWd-hR-SQF.configuration.title" = "GİRİŞ YAP";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "XWd-hR-SQF"; */
+"XWd-hR-SQF.normalTitle" = "GİRİŞ YAP";
+
+/* Class = "UILabel"; text = "Create an account"; ObjectID = "brw-HI-Bn0"; */
+"brw-HI-Bn0.text" = "Yeni Hesap Oluşturun";
+
+/* Class = "UILabel"; text = "Let's plant with us"; ObjectID = "gBM-Xg-Mre"; */
+"gBM-Xg-Mre.text" = "Hadi Birlikte Ekelim";
